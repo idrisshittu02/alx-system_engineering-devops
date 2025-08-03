@@ -1,2 +1,6 @@
 #!/bin/bash
 echo "hello $USER"
+#!/bin/bash
+echo "hello $USER"
+# This script prints a greeting message including the current user's name.
+
